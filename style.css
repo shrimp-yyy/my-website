@@ -163,7 +163,7 @@ body {
     text-align: center;
     color: white;
     animation: float 3s ease-in-out infinite;
-    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+    box-shadow: 0 30px 90px rgba(0,0,0,0.3);
 }
 
 .card-icon {
